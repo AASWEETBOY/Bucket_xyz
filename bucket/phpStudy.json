@@ -1,0 +1,15 @@
+{
+    "version": "8.1.1.3",
+    "description": "让天下没有难配的php环境，永久公益免费！",
+    "homepage": "https://www.xp.cn/phpstudy",
+    "notes": "记得使用优先使用amp（Apache Web服务器、MySQL数据库以及PHP解释器）",
+    "license": "Unkonwn",
+    "architecture": {
+        "64bit": {
+            "url": "https://public.xp.cn/upgrades/phpStudy_64.zip",
+            "hash": "2500d9e0058c83d94df36d0f21379760b3446b265fdce7541913044e8e99c4aa"
+        }
+    },
+    "bin": "phpstudy_x64_8.1.1.3.exe",
+    "extract_dir": "phpStudy"
+}
